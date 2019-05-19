@@ -720,5 +720,5 @@ message.channel.send({embed});
 });
 
 
-    client.login("NTczOTUzNTEzMTM1MDEzODg4.XNhc8w.rdYEf5VfRD9I2vi8iXGIWJJHZrQ");
+    client.login("process.inv.TOKEN");
     
