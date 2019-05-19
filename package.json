@@ -1,0 +1,59 @@
+{
+
+  "name": "Discord-Bot",
+
+  "version": "0.0.1",
+
+  "description": "A bot for Discord",
+
+  "readme": "README.md",
+
+  "author": "Omar <omarmogh2004@gmail.com>",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/Animoo-Bot/Discord-Bot"
+
+  },
+
+  "bugs": {
+
+    "url": "https://github.com/Animoo-Bot/Discord-Bot/issues"
+
+  },
+
+  "keywords": [
+
+    "discord",
+
+    "bot",
+
+    "discordapp"
+
+  ],
+
+  "license": "MIT",
+
+  "main": "anime.js",
+
+  "directories": {
+
+    "lib": "./lib"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "*",
+
+    "youtube-node": "1.2.x",
+
+    "query-string": "3.*",
+
+    "request": ">=2.58.0"
+
+  }
+
+}
